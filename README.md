@@ -1,6 +1,6 @@
 # Harmony Homes
 
-[Live Site URL](https://assignment-9-f42a0.web.app)
+[Live Site Link](https://assignment-9-f42a0.web.app)
 
 Welcome to **Harmony Homes**! This is a real estate-related website for residential housings that allows users to browse real estate properties, view detailed property information, and manage their own profiles and save properties information. Below are some of the main features and characteristics of the website:
 
